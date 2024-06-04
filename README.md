@@ -136,3 +136,7 @@ Now you are ready! Don't forget to play a game against the computer at extreme d
 
 
 ![Gif](https://raw.githubusercontent.com/mertgulerx/skippityC/main/screenshots/ezgif-1-e508be8d76.gif)
+
+
+##
+Bu oyun Yıldız Teknik Üniversitesi, Yapısal Programlama dersi projesidir.
