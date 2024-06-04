@@ -7,19 +7,19 @@ skippityC is a complete implementation of the board game "Skippity" in C languag
 
 
 ## Features
-- Two-player mode: Compete against your friends!
-- Single-player mode: Play against an AI opponent with selectable difficulty levels (Medium, Extreme).
-- AI vs. AI mode: Watch two AIs compete against each other.
-- Variable board size: Choose a board size from 6x6 to 20x20 for a more challenging experience.
-- Randomized board setup: The pieces on the board is randomized for every game.
-- Visual game board: The game uses colored characters to represent each piece type for better experience!
-- Undo/Redo functionality: Players can undo and redo moves during their turn. Everyone can make mistakes right?
-- Save/Load game: Save progress and resume games later.
-- Game over control: The game automatically ends when there are no more possible moves.
-- User-friendly interface: A simple and easy-to-use console interface.
-- Two different control mode: You can enjoy a fast paced game with wasd keys or more attentive moves with coordinates!
-- AI intelligence: The AI opponent is designed with a sophisticated algorithm to make it challenging to defeat!
-- Tutorial: Learn the rules and gameplay mechanics with a comprehensive in-game tutorial.
+- **Two-player mode:** Compete against your friends!
+- **Single-player mode:** Play against an AI opponent with selectable difficulty levels (Medium, Extreme).
+- **AI vs. AI mode:** Watch two AIs compete against each other.
+- **Variable board size:** Choose a board size from 6x6 to 20x20 for a more challenging experience.
+- **Randomized board setup:** The pieces on the board is randomized for every game.
+- **Visual game board:** The game uses colored characters to represent each piece type for better experience!
+- **Undo/Redo functionality:** Players can undo and redo moves during their turn. Everyone can make mistakes right?
+- **Save/Load game:** Save progress and resume games later.
+- **Game over control:** The game automatically ends when there are no more possible moves.
+- **User-friendly interface:** A simple and easy-to-use console interface.
+- **Two different control mode:** You can enjoy a fast paced game with wasd keys or more attentive moves with coordinates!
+- **Artifical Intelligence:** The AI opponent is designed with a sophisticated algorithm to make it challenging to defeat!
+- **Tutorial:** Learn the rules and gameplay mechanics with a comprehensive in-game tutorial.
 
   
 ## Rules
