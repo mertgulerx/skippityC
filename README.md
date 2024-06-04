@@ -18,7 +18,7 @@ skippityC is a complete implementation of the board game "Skippity" in C languag
 - **Game over control:** The game automatically ends when there are no more possible moves.
 - **User-friendly interface:** A simple and easy-to-use console interface.
 - **Two different control mode:** You can enjoy a fast paced game with wasd keys or more attentive moves with coordinates!
-- **Artifical Intelligence:** The AI opponent is designed with a sophisticated algorithm to make it challenging to defeat!
+- **Artificial Intelligence:** The AI opponent is designed with a sophisticated algorithm to make it challenging to defeat!
 - **Tutorial:** Learn the rules and gameplay mechanics with a comprehensive in-game tutorial.
 
   
